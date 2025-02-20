@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+.login-container, .product-container { max-width: 400px; margin: auto; }
+button { padding: 10px; margin: 10px; cursor: pointer; }
+.product-card { border: 1px solid #ddd; padding: 15px; margin: 10px; }
+header { display: flex; justify-content: space-between; align-items: center; padding: 10px; background: #f8f8f8; }
+#go-to-cart { font-size: 16px; padding: 5px 10px; }
